@@ -11,9 +11,9 @@ redirect_from:
 I received my Bachelor's degree in Mathematics with a minor in Computer Science from the University of Chinese Academy of Sciences in 2019. Currently, I am pursuing my Ph.D. in the field of computer graphics, focusing on CAD and 3D understanding.
 
 ---
-Contact: fengyifei15@mails.ucas.ac.cn
----
+Contact: [Email](fengyifei15@mails.ucas.ac.cn)
 
+---
 Research Interests
 - CAD (Computer-Aided Design)
 - 3D reconstruction
@@ -30,6 +30,6 @@ Education
 
 Publications
 ---
-Patching Non-Uniform Extraordinary Points
-Feng, Yi-Fei and Shen, Li-Yong and Li, Xin and Yuan, Chun-Ming and Jiang, Xing
+Patching Non-Uniform Extraordinary Points\\
+Feng, Yi-Fei and Shen, Li-Yong and Li, Xin and Yuan, Chun-Ming and Jiang, Xing\\
 TVCG2023.
