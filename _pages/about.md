@@ -28,6 +28,12 @@ Education
 
 - **Ph.D. candidate** in Applied Mathematics, University of Chinese Academy of Sciences, September 2019 - Present
 
+Internship experience
+---
+- **SenseTime** Computer Vision Algorithms Intern, March 2023 - June 2023
+
+- **Alibaba** Intern Algorithm Engineer, June 2023 - Present
+
 Preprints
 ---
 Real-time tool path planning using deep learning forsubtractive manufacturing.\\
